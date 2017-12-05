@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="23"
+        android:minSdkVersion="16"
         android:targetSdkVersion="26" />
 
     <application
@@ -15,6 +15,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="projets6.com1spot.Com1Spot" >
             <intent-filter>
@@ -23,6 +24,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="projets6.com1spot.ActivityChercher" />
+        <activity android:name="projets6.com1spot.ActivityMenu" />
 
         <meta-data
             android:name="android.support.VERSION"

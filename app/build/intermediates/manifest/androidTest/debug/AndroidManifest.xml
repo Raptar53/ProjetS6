@@ -3,7 +3,7 @@
     package="projets6.com1spot.test" >
 
     <uses-sdk
-        android:minSdkVersion="23"
+        android:minSdkVersion="16"
         android:targetSdkVersion="26" />
 
     <instrumentation
