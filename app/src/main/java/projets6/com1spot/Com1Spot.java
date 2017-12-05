@@ -10,19 +10,11 @@ import android.widget.TextView;
 
 public class Com1Spot extends AppCompatActivity {
 
-    //int [] ids;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setContentView(R.layout.activity_com1_spot);
-        //TextView text = new TextView(this);
-        //text.setText("PUTAIN CA MARCHE !!!!!!!!!");
         setContentView(R.layout.activity_menu);
 
-        //ids = new int[2];
-        //ids[0] = R.id.button1;
-        //ids[1] = R.id.button2;
 
         Button BP1 = /*(Button)*/ findViewById(R.id.button2);
         BP1.setOnClickListener(new View.OnClickListener() {
