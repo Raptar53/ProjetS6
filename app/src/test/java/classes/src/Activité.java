@@ -1,6 +1,8 @@
 package classes.src;
 
 
+import java.lang.reflect.Array;
+
 /**
  * Created by Romain on 28/11/2017.
  */
@@ -11,9 +13,9 @@ public class Activite {
      */
     private String lieu;
     private String type_activite;
-    private String date;
-    private String horaire;
-    private String duree;
+    private int date[3];
+    private int horaire[2];
+    private int duree[2];
     private int nb_place;
 
     // Getters & Setters
@@ -34,7 +36,7 @@ public class Activite {
         this.type_activite = type_activite;
     }
 
-    public String getDate() {
+    public int getDate() {
         return date;
     }
 
@@ -44,7 +46,7 @@ public class Activite {
         this.date[2] = annee;
     }
 
-    public String getHoraire() {
+    public int getHoraire() {
         return horaire;
     }
 
@@ -53,7 +55,7 @@ public class Activite {
         this.horaire[1] = minute;
     }
 
-    public String getDuree() {
+    public int getDuree() {
         return duree;
     }
 
@@ -72,7 +74,7 @@ public class Activite {
 
     //Constructor
 
-    public Activite(String lieu, String type_activite, String date, String horaire, String duree, int nb_place) {
+    public Activite(String lieu, String type_activite, int date[3], int horaire[2], int duree[2], int nb_place) {
         this.lieu = lieu;
         this.type_activite = type_activite;
         this.date = date;
@@ -81,14 +83,14 @@ public class Activite {
         this.nb_place = nb_place;
     }
 
-    public Activite(String lieu, String type_activite, String date, String horaire) {
+    public Activite(String lieu, String type_activite, int date[3], int horaire[2]) {
         this.lieu = lieu;
         this.type_activite = type_activite;
         this.date = date;
         this.horaire = horaire;
     }
 
-    public Activite(String lieu, String type_activite, String date, String horaire, String duree) {
+    public Activite(String lieu, String type_activite, int date[3], int horaire[2], int duree[2]) {
         this.lieu = lieu;
         this.type_activite = type_activite;
         this.date = date;
@@ -96,7 +98,7 @@ public class Activite {
         this.duree = duree;
     }
 
-    public Activite(String lieu, String type_activite, String date, String horaire, int nb_place) {
+    public Activite(String lieu, String type_activite, int date[2], int horaire[2], int nb_place) {
         this.lieu = lieu;
         this.type_activite = type_activite;
         this.date = date;
