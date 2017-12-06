@@ -5,4 +5,9 @@ package classes.src;
  */
 
 public class Contact {
+    public int pseudo;
+
+    public Contact(int pseudo) {
+        this.pseudo = pseudo;
+    }
 }
