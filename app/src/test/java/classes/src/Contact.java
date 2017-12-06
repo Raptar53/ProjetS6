@@ -5,9 +5,10 @@ package classes.src;
  */
 
 public class Contact {
-    public int pseudo;
+    private String pseudo;
 
-    public Contact(int pseudo) {
+
+    public Contact(String pseudo) {
         this.pseudo = pseudo;
     }
 }
