@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83ec293720b2cd07374401147388d9a7\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\62bb772776c4efcfaf13b6b449ad2e61\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\20a4f1699edff520b04c9b23ff19655e\AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Romain\.gra
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f9c9f5ed9cbd9024cac2a7c1cfaee1ea\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\df64196b8d1eb8b04ea891940eb8832b\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bb91b89ab55fbc51ae5a12ee15be88d8\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:5:5-22:19
+ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:5:5-27:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83ec293720b2cd07374401147388d9a7\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83ec293720b2cd07374401147388d9a7\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\62bb772776c4efcfaf13b6b449ad2e61\AndroidManifest.xml:9:5-20
@@ -90,6 +90,26 @@ activity#projets6.com1spot.ActivityMenu
 ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:21:9-50
 	android:name
 		ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:21:19-47
+activity#projets6.com1spot.ActivityVerification
+ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:22:9-58
+	android:name
+		ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:22:19-55
+activity#projets6.com1spot.ActivityProposer
+ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:23:9-54
+	android:name
+		ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:23:19-51
+activity#projets6.com1spot.ActivityInscription
+ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:24:9-57
+	android:name
+		ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:24:19-54
+activity#projets6.com1spot.ActivityPreference
+ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:25:9-56
+	android:name
+		ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:25:19-53
+activity#projets6.com1spot.ActivityContact
+ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:26:9-53
+	android:name
+		ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:26:19-50
 uses-sdk
 INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml

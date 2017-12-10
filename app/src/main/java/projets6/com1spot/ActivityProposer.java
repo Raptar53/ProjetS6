@@ -1,20 +1,20 @@
 package projets6.com1spot;
 
+
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageButton;
 
-
-public class ActivityChercher extends AppCompatActivity {
+public class ActivityProposer extends AppCompatActivity {
 
     ImageButton BPMenu, BPOptions, BPContacts;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_chercher);
+        setContentView(R.layout.activity_proposer);
 
         BPMenu = findViewById(R.id.menu);
         BPOptions = findViewById(R.id.options);

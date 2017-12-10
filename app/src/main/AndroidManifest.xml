@@ -19,6 +19,11 @@
         </activity>
         <activity android:name=".ActivityChercher" />
         <activity android:name=".ActivityMenu" />
+        <activity android:name=".ActivityVerification" />
+        <activity android:name=".ActivityProposer" />
+        <activity android:name=".ActivityInscription" />
+        <activity android:name=".ActivityPreference" />
+        <activity android:name=".ActivityContact" />
     </application>
 
 </manifest>

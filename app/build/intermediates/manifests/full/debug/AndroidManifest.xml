@@ -26,6 +26,11 @@
         </activity>
         <activity android:name="projets6.com1spot.ActivityChercher" />
         <activity android:name="projets6.com1spot.ActivityMenu" />
+        <activity android:name="projets6.com1spot.ActivityVerification" />
+        <activity android:name="projets6.com1spot.ActivityProposer" />
+        <activity android:name="projets6.com1spot.ActivityInscription" />
+        <activity android:name="projets6.com1spot.ActivityPreference" />
+        <activity android:name="projets6.com1spot.ActivityContact" />
 
         <meta-data
             android:name="android.support.VERSION"
