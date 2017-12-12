@@ -4,7 +4,6 @@ import java.util.Vector;
 
 /**
  * Created by Guillaume on 12/12/2017
- *
  */
 
 public class Serveur {
