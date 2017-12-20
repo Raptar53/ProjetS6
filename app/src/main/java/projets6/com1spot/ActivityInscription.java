@@ -9,18 +9,23 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
-//import com.google.firebase.iid.FirebaseInstanceIdReceiver;
+import projets6.com1spot.DataBase.MyDataBase;
+
 
 public class ActivityInscription extends AppCompatActivity {
 
+    private MyDataBase mData;
     private Button BPInInscription;
     private ImageButton BPInRetour;
     private EditText Login, Password, Confirmation;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_inscription);
+
+        mData = new MyDataBase();
 
         Login = findViewById(R.id.Login);
         Password = findViewById(R.id.Password);
@@ -47,6 +52,7 @@ public class ActivityInscription extends AppCompatActivity {
                     return;
                 }
                 else {
+                    mData.addUser(ActivityInscription.this,name,mdp2);
                     Intent intent = new Intent(getApplicationContext(),Com1Spot.class);
                     startActivity(intent);
                 }
@@ -56,6 +62,7 @@ public class ActivityInscription extends AppCompatActivity {
         BPInRetour.setOnClickListener(new View.OnClickListener(){    //ajout dans bdd (en attente)
             @Override
             public void onClick(View view) {
+
                 Intent intent = new Intent(getApplicationContext(),Com1Spot.class);
                 startActivity(intent);
             }
