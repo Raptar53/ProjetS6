@@ -4,21 +4,21 @@ ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\ma
 INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
 INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
 INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
-MERGED from [com.google.firebase:firebase-database:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-11.6.2.aar\9f6253026bd3d0dc14506d3e9cca7b15\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\f12ebb924e8fba2cb94e1a168e401626\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\da509483cd729ed62d0d8ffa8e6d5039\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\77b58e03aff5844107babf6e03e9f42b\AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\ab6a9b213d26bd605acd012f7173af75\AndroidManifest.xml:17:1-32:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9f83d17b156604d0d27098d3b955c4f1\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\02c81a0dc5481521e8020dd3dc238979\AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.firebase:firebase-database-connection:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.6.2.aar\1fbf2bc82b9afee99c3714678d31fc49\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\6b2550d41238064698def9205dd4702c\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b0f1f9f32f0401f8ef02b9ddbbf5422\AndroidManifest.xml:17:1-54:12
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\2ba1e9907f77628b2fdb3807a22af6bd\AndroidManifest.xml:17:1-40:12
 MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\d852b6896c765ba4421e768de9082c04\AndroidManifest.xml:17:1-59:12
-MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2806e617a34287b03fbd7e80da141473\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\81eea61dd476bb3fd18e32c02c5c0be7\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\613142b3b4e1b8c5b882becb3471b7f9\AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.firebase:firebase-database-license:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.2.aar\9514cc52f8aa19d5bfcb16e4d153bafd\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\9e351b90c965689b8f746ce34d47ffcb\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-crash-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-11.8.0.aar\b0ab0b0305948fb4f6ac11c2f3d4fd80\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\5d7e405029153592a024d4dd361e7dd3\AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1a92750d05eefe4e394911269c2847f0\AndroidManifest.xml:17:1-28:12
@@ -29,15 +29,15 @@ MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Romain\.gradle
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3379ae85f939ca760a5580089282c1c7\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f7f541c3d76433f827a315efdb243337\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\32b65ea5972f788357e243214121af91\AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.2.aar\ce5e83269201429d1beb2e359124c6b9\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\e2376e3d2453e4d32b94d4407a56abce\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da04925c63890d6930898b05f45effd4\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\97e70a6e2d0584b0a6bb0da0a22ae6b3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\28e5bb1ef9a4a95101fdbe9ba6625a75\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\98bb49c588c6b841c94390d708482e5b\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\b72930af9e78175fea832de45d9dd71f\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\45455d28dd4ced964e6aad1cf17ae950\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\53702a8ff1d2e1a6234ca40905e307f6\AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\00eaff7914de1fbb45fa2c79b9980b89\AndroidManifest.xml:17:1-30:12
-MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da04925c63890d6930898b05f45effd4\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\97e70a6e2d0584b0a6bb0da0a22ae6b3\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\28e5bb1ef9a4a95101fdbe9ba6625a75\AndroidManifest.xml:2:1-6:12
 INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
 INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
 INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:2:1-29:12
@@ -73,16 +73,16 @@ MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Romain
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\2ba1e9907f77628b2fdb3807a22af6bd\AndroidManifest.xml:27:5-38:19
 MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\d852b6896c765ba4421e768de9082c04\AndroidManifest.xml:34:5-57:19
 MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\d852b6896c765ba4421e768de9082c04\AndroidManifest.xml:34:5-57:19
-MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2806e617a34287b03fbd7e80da141473\AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2806e617a34287b03fbd7e80da141473\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\81eea61dd476bb3fd18e32c02c5c0be7\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\81eea61dd476bb3fd18e32c02c5c0be7\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\613142b3b4e1b8c5b882becb3471b7f9\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\613142b3b4e1b8c5b882becb3471b7f9\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.firebase:firebase-database-license:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.2.aar\9514cc52f8aa19d5bfcb16e4d153bafd\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-database-license:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.2.aar\9514cc52f8aa19d5bfcb16e4d153bafd\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\9e351b90c965689b8f746ce34d47ffcb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\9e351b90c965689b8f746ce34d47ffcb\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-crash-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-11.8.0.aar\b0ab0b0305948fb4f6ac11c2f3d4fd80\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-crash-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-11.8.0.aar\b0ab0b0305948fb4f6ac11c2f3d4fd80\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\5d7e405029153592a024d4dd361e7dd3\AndroidManifest.xml:5:5-20
@@ -103,8 +103,14 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Romain\.gra
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f7f541c3d76433f827a315efdb243337\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\32b65ea5972f788357e243214121af91\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\32b65ea5972f788357e243214121af91\AndroidManifest.xml:25:5-29:19
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.2.aar\ce5e83269201429d1beb2e359124c6b9\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.2.aar\ce5e83269201429d1beb2e359124c6b9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\e2376e3d2453e4d32b94d4407a56abce\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\e2376e3d2453e4d32b94d4407a56abce\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da04925c63890d6930898b05f45effd4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da04925c63890d6930898b05f45effd4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\97e70a6e2d0584b0a6bb0da0a22ae6b3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\97e70a6e2d0584b0a6bb0da0a22ae6b3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\28e5bb1ef9a4a95101fdbe9ba6625a75\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\28e5bb1ef9a4a95101fdbe9ba6625a75\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\98bb49c588c6b841c94390d708482e5b\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\98bb49c588c6b841c94390d708482e5b\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\b72930af9e78175fea832de45d9dd71f\AndroidManifest.xml:5:5-20
@@ -115,12 +121,6 @@ MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\User
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\53702a8ff1d2e1a6234ca40905e307f6\AndroidManifest.xml:5:5-20
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\00eaff7914de1fbb45fa2c79b9980b89\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\00eaff7914de1fbb45fa2c79b9980b89\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da04925c63890d6930898b05f45effd4\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da04925c63890d6930898b05f45effd4\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\97e70a6e2d0584b0a6bb0da0a22ae6b3\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\97e70a6e2d0584b0a6bb0da0a22ae6b3\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\28e5bb1ef9a4a95101fdbe9ba6625a75\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\28e5bb1ef9a4a95101fdbe9ba6625a75\AndroidManifest.xml:5:5-20
 	android:supportsRtl
 		ADDED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
@@ -179,8 +179,8 @@ uses-sdk
 INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml
-MERGED from [com.google.firebase:firebase-database:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-11.6.2.aar\9f6253026bd3d0dc14506d3e9cca7b15\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-11.6.2.aar\9f6253026bd3d0dc14506d3e9cca7b15\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\f12ebb924e8fba2cb94e1a168e401626\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\f12ebb924e8fba2cb94e1a168e401626\AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\da509483cd729ed62d0d8ffa8e6d5039\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\da509483cd729ed62d0d8ffa8e6d5039\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\77b58e03aff5844107babf6e03e9f42b\AndroidManifest.xml:20:5-44
@@ -191,24 +191,24 @@ MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\ca
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9f83d17b156604d0d27098d3b955c4f1\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\02c81a0dc5481521e8020dd3dc238979\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\02c81a0dc5481521e8020dd3dc238979\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-database-connection:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.6.2.aar\1fbf2bc82b9afee99c3714678d31fc49\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database-connection:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.6.2.aar\1fbf2bc82b9afee99c3714678d31fc49\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\6b2550d41238064698def9205dd4702c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\6b2550d41238064698def9205dd4702c\AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b0f1f9f32f0401f8ef02b9ddbbf5422\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b0f1f9f32f0401f8ef02b9ddbbf5422\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\2ba1e9907f77628b2fdb3807a22af6bd\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\2ba1e9907f77628b2fdb3807a22af6bd\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\d852b6896c765ba4421e768de9082c04\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\d852b6896c765ba4421e768de9082c04\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2806e617a34287b03fbd7e80da141473\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2806e617a34287b03fbd7e80da141473\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\81eea61dd476bb3fd18e32c02c5c0be7\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\81eea61dd476bb3fd18e32c02c5c0be7\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\613142b3b4e1b8c5b882becb3471b7f9\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\613142b3b4e1b8c5b882becb3471b7f9\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-database-license:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.2.aar\9514cc52f8aa19d5bfcb16e4d153bafd\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-database-license:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.2.aar\9514cc52f8aa19d5bfcb16e4d153bafd\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\9e351b90c965689b8f746ce34d47ffcb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\9e351b90c965689b8f746ce34d47ffcb\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-crash-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-11.8.0.aar\b0ab0b0305948fb4f6ac11c2f3d4fd80\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-crash-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-11.8.0.aar\b0ab0b0305948fb4f6ac11c2f3d4fd80\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\5d7e405029153592a024d4dd361e7dd3\AndroidManifest.xml:4:5-43
@@ -229,8 +229,14 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Romain\.gra
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f7f541c3d76433f827a315efdb243337\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\32b65ea5972f788357e243214121af91\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\32b65ea5972f788357e243214121af91\AndroidManifest.xml:21:5-23:58
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.2.aar\ce5e83269201429d1beb2e359124c6b9\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.2.aar\ce5e83269201429d1beb2e359124c6b9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\e2376e3d2453e4d32b94d4407a56abce\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\e2376e3d2453e4d32b94d4407a56abce\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da04925c63890d6930898b05f45effd4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da04925c63890d6930898b05f45effd4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\97e70a6e2d0584b0a6bb0da0a22ae6b3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\97e70a6e2d0584b0a6bb0da0a22ae6b3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\28e5bb1ef9a4a95101fdbe9ba6625a75\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\28e5bb1ef9a4a95101fdbe9ba6625a75\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\98bb49c588c6b841c94390d708482e5b\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\98bb49c588c6b841c94390d708482e5b\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\b72930af9e78175fea832de45d9dd71f\AndroidManifest.xml:4:5-43
@@ -241,12 +247,6 @@ MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\User
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\53702a8ff1d2e1a6234ca40905e307f6\AndroidManifest.xml:4:5-43
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\00eaff7914de1fbb45fa2c79b9980b89\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\00eaff7914de1fbb45fa2c79b9980b89\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da04925c63890d6930898b05f45effd4\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\da04925c63890d6930898b05f45effd4\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\97e70a6e2d0584b0a6bb0da0a22ae6b3\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\97e70a6e2d0584b0a6bb0da0a22ae6b3\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\28e5bb1ef9a4a95101fdbe9ba6625a75\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\28e5bb1ef9a4a95101fdbe9ba6625a75\AndroidManifest.xml:4:5-43
 INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Romain\AndroidStudioProjects\projet info\ProjetS6\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
@@ -429,14 +429,6 @@ action#com.google.firebase.INSTANCE_ID_EVENT
 ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\d852b6896c765ba4421e768de9082c04\AndroidManifest.xml:54:17-80
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\d852b6896c765ba4421e768de9082c04\AndroidManifest.xml:54:25-77
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:26:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:24:13-79
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2806e617a34287b03fbd7e80da141473\AndroidManifest.xml:8:9-12:39
 	android:authorities
@@ -447,6 +439,14 @@ ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Romain\.gradle\
 		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2806e617a34287b03fbd7e80da141473\AndroidManifest.xml:12:13-36
 	android:name
 		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2806e617a34287b03fbd7e80da141473\AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\f46e62f4cfdacc69745f2c0930ab36de\AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
 ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Romain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\613142b3b4e1b8c5b882becb3471b7f9\AndroidManifest.xml:23:9-25:69
 	android:value
