@@ -1,10 +1,12 @@
 package classes.src;
+
 import java.util.Vector;
 import classes.src.Contact;
-
-/**
- * Created by Romain on 28/11/2017.
- */
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 public class Utilisateur {
     private Vector<Contact> repertoire;
@@ -14,6 +16,8 @@ public class Utilisateur {
     private String type_activités;
     private String lieux;
     private String commentaire;
+
+    //private Firebase mRef;
 
     public String getLogin() {
         return login;

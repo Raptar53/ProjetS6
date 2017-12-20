@@ -9,17 +9,17 @@ import android.widget.ImageButton;
 
 public class ActivityContact extends AppCompatActivity {
 
-    ImageButton BPMenu, BPOptions;
+    private ImageButton BPCoMenu, BPCoOptions;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_contact);
 
-        BPMenu = findViewById(R.id.menu);
-        BPOptions = findViewById(R.id.options);
+        BPCoMenu = findViewById(R.id.menu);
+        BPCoOptions = findViewById(R.id.options);
 
-        BPMenu.setOnClickListener(new View.OnClickListener() {
+        BPCoMenu.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(getApplicationContext(), ActivityMenu.class);
@@ -27,7 +27,7 @@ public class ActivityContact extends AppCompatActivity {
             }
         });
 
-        BPOptions.setOnClickListener(new View.OnClickListener() {
+        BPCoOptions.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(getApplicationContext(), ActivityPreference.class);

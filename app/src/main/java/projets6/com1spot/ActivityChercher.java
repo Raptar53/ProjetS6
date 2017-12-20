@@ -9,18 +9,18 @@ import android.widget.ImageButton;
 
 public class ActivityChercher extends AppCompatActivity {
 
-    ImageButton BPMenu, BPOptions, BPContacts;
+    private ImageButton BPChMenu, BPChOptions, BPChContacts;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_chercher);
 
-        BPMenu = findViewById(R.id.menu);
-        BPOptions = findViewById(R.id.options);
-        BPContacts = findViewById(R.id.contacts);
+        BPChMenu = findViewById(R.id.menu);
+        BPChOptions = findViewById(R.id.options);
+        BPChContacts = findViewById(R.id.contacts);
 
-        BPMenu.setOnClickListener(new View.OnClickListener() {
+        BPChMenu.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(getApplicationContext(), ActivityMenu.class);
@@ -28,7 +28,7 @@ public class ActivityChercher extends AppCompatActivity {
             }
         });
 
-        BPOptions.setOnClickListener(new View.OnClickListener() {
+        BPChOptions.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(getApplicationContext(), ActivityPreference.class);
@@ -36,7 +36,7 @@ public class ActivityChercher extends AppCompatActivity {
             }
         });
 
-        BPContacts.setOnClickListener(new View.OnClickListener() {
+        BPChContacts.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(getApplicationContext(), ActivityContact.class);

@@ -9,11 +9,13 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
+//import com.google.firebase.iid.FirebaseInstanceIdReceiver;
+
 public class ActivityInscription extends AppCompatActivity {
 
-    Button BPInscription;
-    ImageButton BPRetour;
-    EditText Login, Password, Confirmation;
+    private Button BPInInscription;
+    private ImageButton BPInRetour;
+    private EditText Login, Password, Confirmation;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,10 +25,10 @@ public class ActivityInscription extends AppCompatActivity {
         Login = findViewById(R.id.Login);
         Password = findViewById(R.id.Password);
         Confirmation = findViewById(R.id.confirmation);
-        BPRetour = findViewById(R.id.retour);
-        BPInscription = findViewById(R.id.inscription);
+        BPInRetour = findViewById(R.id.retour);
+        BPInInscription = findViewById(R.id.inscription);
 
-        BPInscription.setOnClickListener(new View.OnClickListener(){
+        BPInInscription.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View view) {
                 String name = Login.getText().toString();
@@ -51,7 +53,7 @@ public class ActivityInscription extends AppCompatActivity {
             }
         });
 
-        BPRetour.setOnClickListener(new View.OnClickListener(){    //ajout dans bdd (en attente)
+        BPInRetour.setOnClickListener(new View.OnClickListener(){    //ajout dans bdd (en attente)
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(getApplicationContext(),Com1Spot.class);

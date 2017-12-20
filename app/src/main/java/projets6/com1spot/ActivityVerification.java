@@ -8,7 +8,7 @@ import android.widget.Button;
 
 public class ActivityVerification extends AppCompatActivity {
 
-    Button BPValidation;
+    private Button BPValidation;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

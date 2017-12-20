@@ -10,8 +10,8 @@ import android.widget.Toast;
 
 public class Com1Spot extends AppCompatActivity {
 
-    EditText Login, Password;
-    Button BPConnexion, BPInscription;
+    private EditText Login, Password;
+    private Button BPConnexion, BPInscription;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -10,13 +10,14 @@ import android.widget.ImageButton;
 
 public class ActivityMenu extends AppCompatActivity {
 
-    Button BPProposer, BPChercher;
-    ImageButton BPOptions, BPContacts;
+    private Button BPProposer, BPChercher;
+    private ImageButton BPOptions, BPContacts;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu);
+        //Firebase.setAdroidContext(this);
 
         BPProposer = findViewById(R.id.proposer);
         BPChercher = findViewById(R.id.chercher);

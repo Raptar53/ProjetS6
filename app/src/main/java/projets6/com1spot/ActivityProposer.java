@@ -9,18 +9,18 @@ import android.widget.ImageButton;
 
 public class ActivityProposer extends AppCompatActivity {
 
-    ImageButton BPMenu, BPOptions, BPContacts;
+    private ImageButton BPProMenu, BPProOptions, BPProContacts;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_proposer);
 
-        BPMenu = findViewById(R.id.menu);
-        BPOptions = findViewById(R.id.options);
-        BPContacts = findViewById(R.id.contacts);
+        BPProMenu = findViewById(R.id.menu);
+        BPProOptions = findViewById(R.id.options);
+        BPProContacts = findViewById(R.id.contacts);
 
-        BPMenu.setOnClickListener(new View.OnClickListener() {
+        BPProMenu.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(getApplicationContext(), ActivityMenu.class);
@@ -28,7 +28,7 @@ public class ActivityProposer extends AppCompatActivity {
             }
         });
 
-        BPOptions.setOnClickListener(new View.OnClickListener() {
+        BPProOptions.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(getApplicationContext(), ActivityPreference.class);
@@ -36,7 +36,7 @@ public class ActivityProposer extends AppCompatActivity {
             }
         });
 
-        BPContacts.setOnClickListener(new View.OnClickListener() {
+        BPProContacts.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(getApplicationContext(), ActivityContact.class);
